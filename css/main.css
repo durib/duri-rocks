@@ -149,42 +149,42 @@ p.lead {
   }
 }
 
-section.resume-section {
+section.page-section {
   padding-top: 5rem !important;
   padding-bottom: 5rem !important;
   max-width: 75rem;
 }
 
-section.resume-section .resume-item .resume-date {
+section.page-section .page-item .page-date {
   min-width: none;
 }
 
 @media (min-width: 768px) {
-  section.resume-section {
+  section.page-section {
     min-height: 100vh;
   }
-  section.resume-section .resume-item .resume-date {
+  section.page-section .page-item .page-date {
     min-width: 18rem;
   }
 }
 
 @media (min-width: 992px) {
-  section.resume-section {
+  section.page-section {
     padding-top: 3rem !important;
     padding-bottom: 3rem !important;
   }
 }
 
 .bg-primary {
-  background-color: #BD5D38 !important;
+  background-color: #285292 !important;
 }
 
 .text-primary {
-  color: #BD5D38 !important;
+  color: #285292 !important;
 }
 
 a {
-  color: #BD5D38;
+  color: #285292;
 }
 
 a:hover, a:focus, a:active {
