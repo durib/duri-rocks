@@ -1,0 +1,3 @@
+[submodule "maps/the-block"]
+	path = maps/the-block
+	url = git@github.com:durib/the-block.git
