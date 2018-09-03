@@ -1,1 +1,1 @@
-aws s3 cp ~/code/duri-rocks/ s3://duri.rocks/ --recursive --acl public-read --exclude "maps/*" --exclude ".git/*" --exclude ".*" --exclude "*.bat" --exclude "*.md" --exclude "LICENSE"
+aws s3 cp ~/code/duri-rocks/ s3://duri.rocks/ --recursive --acl public-read --exclude "maps/*" --exclude ".*" --exclude "*.bat" --exclude "*.sh" --exclude "*.md" --exclude "LICENSE"
